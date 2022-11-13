@@ -1,4 +1,4 @@
-local L_52_ = loadstring(game:HttpGet(("https://pastebin.com/raw/q7UT0gq2")))()
+local L_52_ = loadstring(game:HttpGet(("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/UILIB")))()
 local L_53_ = L_52_:MakeWindow({
 	Name = "Dark Hub V4 | Paid",
 	HidePremium = false,
