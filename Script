@@ -1,6 +1,9 @@
+-- Adam, not this again HAHA
+-- Wait what is bolts doing here HAHA
+
 local L_52_ = loadstring(game:HttpGet(("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/UILIB")))()
 local L_53_ = L_52_:MakeWindow({
-	Name = "Dark Hub V4 | Paid",
+	Name = "Dark Hub V2",
 	HidePremium = false,
 	SaveConfig = true,
 	ConfigFolder = "DARKHUB_Arsenal"
@@ -231,7 +234,7 @@ local L_59_ = ""
 L_56_:Textbox({
 	Name = "Chat Message",
 	Placeholder = "Enter A Message",
-	Default = "Dark Hub V4 Winning",
+	Default = "Dark Hub V2 Winning",
 	Disappear = false,
 	Callback = function(L_101_arg0)
 		L_59_ = L_101_arg0
